@@ -18,5 +18,5 @@ I'm a self-taught Cloud & SysOps engineer focused on AWS, Linux, Terraform, and 
 AWS • Linux • Terraform • Python • Git • GitHub • CloudWatch • IAM
 
 ## 📫 How to reach me
-LinkedIn: (add your link here)
+LinkedIn: (www.linkedin.com/in/gerald-pena-57b0313b2)
 📫 Contact me: geraldpena94@gmail.com
