@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Gerald — Junior Cloud / SysOps Engineer
 
-<!--
-**Geraldcloudguy/Geraldcloudguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Cloud & SysOps engineer focused on AWS, Linux, Terraform, and automation.
 
-Here are some ideas to get you started:
+## 🚀 What I Build
+- AWS infrastructure using Terraform (VPCs, subnets, EC2, security groups)
+- IAM users, roles, and least-privilege policies
+- Monitoring, alerts, and incident recovery using CloudWatch
+- Python automation for EC2 operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Key Projects
+- 🔥 CloudOps Incident Simulator (monitoring, alarms, auto-recovery)
+- Terraform Infrastructure Project (VPC + EC2)
+- IAM & Security Project
+- EC2 Automation Project (Python + AWS CLI)
+
+## 🛠️ Tech Stack
+AWS • Linux • Terraform • Python • Git • GitHub • CloudWatch • IAM
+
+## 📫 How to reach me
+LinkedIn: (add your link here)
+📫 Contact me: geraldpena94@gmail.com
