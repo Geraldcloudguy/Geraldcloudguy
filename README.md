@@ -13,6 +13,8 @@ I'm a self-taught Cloud & SysOps engineer focused on AWS, Linux, Terraform, and 
 - Terraform Infrastructure Project (VPC + EC2)
 - IAM & Security Project
 - EC2 Automation Project (Python + AWS CLI)
+-Multi-tier Web App / Infrastructure
+-CI/CD Pipeline Live Demo
 
 ## 🛠️ Tech Stack
 AWS • Linux • Terraform • Python • Git • GitHub • CloudWatch • IAM
