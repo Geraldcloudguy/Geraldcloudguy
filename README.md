@@ -1,24 +1,40 @@
-# 👋 Hi, I'm Gerald — Junior Cloud / SysOps Engineer
+👋 Hi, I'm Gerald — Junior Cloud / SysOps Engineer
 
-I'm a self-taught Cloud & SysOps engineer focused on AWS, Linux, Terraform, and automation.
+I’m a self-taught Cloud & SysOps engineer focused on AWS, Linux, Terraform, and automation. I build hands-on CloudOps solutions that are practical, reproducible, and showcase real-world AWS skills.
 
-## 🚀 What I Build
-- AWS infrastructure using Terraform (VPCs, subnets, EC2, security groups)
-- IAM users, roles, and least-privilege policies
-- Monitoring, alerts, and incident recovery using CloudWatch
-- Python automation for EC2 operations
+🚀 Highlight Project
+🔥 Project 9 – CloudOps Platform
 
-## 🧠 Key Projects
-- 🔥 CloudOps Incident Simulator (monitoring, alarms, auto-recovery)
-- Terraform Infrastructure Project (VPC + EC2)
-- IAM & Security Project
-- EC2 Automation Project (Python + AWS CLI)
--Multi-tier Web App / Infrastructure
--CI/CD Pipeline Live Demo
+Full CloudOps platform using Terraform + LocalStack
 
-## 🛠️ Tech Stack
-AWS • Linux • Terraform • Python • Git • GitHub • CloudWatch • IAM
+Built S3 buckets, IAM roles, monitoring, and alerts locally
 
-## 📫 How to reach me
-LinkedIn: (www.linkedin.com/in/gerald-pena-57b0313b2)
-📫 Contact me: geraldpena94@gmail.com
+Designed CI/CD pipelines with GitHub Actions
+
+Practiced incident simulations and security hardening
+
+Architecture is production-like, reproducible, and cost-free
+
+🧠 Key Projects
+
+CloudOps Incident Simulator – Monitoring, alarms, auto-recovery
+
+Terraform Infrastructure Project – VPCs, EC2, security groups
+
+IAM & Security Project – Roles, users, least-privilege policies
+
+EC2 Automation Project – Python + AWS CLI
+
+Multi-tier Web App / Infrastructure
+
+CI/CD Pipeline Live Demo
+
+🛠️ Tech Stack
+
+AWS • Linux • Terraform • Python • Git • GitHub • CloudWatch • IAM • LocalStack
+
+📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/gerald-pena-57b0313b2
+
+Email: geraldpena94@gmail.com
